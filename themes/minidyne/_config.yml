@@ -1,13 +1,13 @@
 # Index Page
 index_icon: 🌺
 
-index_banner_text: Welcome to Minidyne Theme Demo
+index_banner_text: Welcome to Minidyne
 
 menu:
   Home: /
   Archives: /archives
-  About: /about.html
-  Project: /project.html
+  About: /about
+  Project: /project
 
 # defaul icon for a post
 default_post_icon: 🥑
