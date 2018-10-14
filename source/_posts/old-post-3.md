@@ -3,8 +3,7 @@ title: old post 3
 date: 2003-03-03
 ---
 First test post
-
-···jsx
+```jsx
 import React from "react";
 import ReactDOM from "react-dom";
 
@@ -17,4 +16,5 @@ let el = (
 );
 
 ReactDOM.render(el, window.root);
-···
+
+```
