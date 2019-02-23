@@ -56,10 +56,10 @@ Maecenas ornare arcu at mi suscipit, non molestie tortor ultrices. Aenean conval
   - AA2
 - B1
 
-[ ] c
-[x] d
-[] e
-[x ] f
+- [ ] c
+- [x] d
+- [] e
+- [x ] f
 
 ## Table
 
