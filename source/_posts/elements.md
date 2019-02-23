@@ -49,6 +49,18 @@ Maecenas ornare arcu at mi suscipit, non molestie tortor ultrices. Aenean conval
 - List Item 2
 - List Item 3
 
+- A
+
+- A1
+  - AA1
+  - AA2
+- B1
+
+[ ] c
+[x] d
+[] e
+[x ] f
+
 ## Table
 
 | Table Header 1 | Table Header 2 | Table Header 3 |
