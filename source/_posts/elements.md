@@ -33,9 +33,14 @@ Maecenas ornare arcu at mi suscipit, non molestie tortor ultrices. Aenean conval
 
 ## List Types
 
-### Definition List (dl)
+### Definition List (dl/html)
 
 <dl><dt>Definition List Title</dt><dd>This is a definition list division.</dd></dl>
+
+### Definition List (:)
+
+Definition List Title
+: This is a definition list division.
 
 ### Ordered List (ol)
 
@@ -43,27 +48,55 @@ Maecenas ornare arcu at mi suscipit, non molestie tortor ultrices. Aenean conval
 2. List Item 2
 3. List Item 3
 
+### Ordered List with Parenthesis (not working)
+
+1) List Item 1
+2) List Item 2
+3) List Item 3
+
 ### Unordered List (ul)
 
 - List Item 1
 - List Item 2
 - List Item 3
 
+### + List
+
++ List Item 1
++ List Item 2
++ List Item 3
+
+### * List
+
+* List Item 1
+* List Item 2
+* List Item 3
+
+### Single element List
+
 - A
+
+### Multiple Level List:
 
 - A1
   - AA1
   - AA2
 - B1
 
-- [ ] c
-- [x] d
+Task list here:
+
+- [ ] cccc
+- [x] dccccccc
 - [] e
 - [_] f
 - [x ] g
 - [-]
 
 checkbox in text: [x] / [ ]
+
+### H3 Title
+
+### H3 Title
 
 ### H3 Title
 
@@ -82,3 +115,15 @@ checkbox in text: [x] / [ ]
 ## Misc Stuff - abbr, acronym, sub, sup, etc.
 
 Lorem <sup>superscript</sup> dolor <sub>subscript</sub> amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. <cite>cite</cite>. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. <acronym title="National Basketball Association">NBA</acronym> Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  <abbr title="Avenue">AVE</abbr>
+
+Test Autolinks:
+
+http://google.com
+
+https://google.fr
+
+t@gmail.com
+
+mailto:t@gmail.com
+
+End
