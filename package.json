@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "hexo": {
-    "version": "3.7.1"
+    "version": "3.8.0"
   },
   "dependencies": {
     "hexo": "^3.8.0",
@@ -12,7 +12,7 @@
     "hexo-generator-tag": "^0.2.0",
     "hexo-renderer-ejs": "^0.3.1",
     "hexo-renderer-stylus": "^0.3.3",
-    "hexo-renderer-marked": "yoshinorin:marked-v0.6.0",
+    "hexo-renderer-marked": "git://github.com/YoshinoriN/hexo-renderer-marked.git#marked-v0.6.0",
     "hexo-server": "^0.3.3"
   }
 }
