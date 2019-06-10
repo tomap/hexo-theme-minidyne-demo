@@ -7,7 +7,7 @@ title: Minidyne demo
 subtitle:
 description:
 keywords:
-author: Thomas Piart
+author: John Doe's Personal Site
 language: en
 timezone:
 
@@ -65,9 +65,14 @@ tag_map:
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 
+menu:
+  Home: /
+  About: /about
+  Project: /project
+
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 5
+per_page: 0
 pagination_dir: page
 
 # Extensions

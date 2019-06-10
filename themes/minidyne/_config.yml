@@ -1,19 +1,8 @@
 # Index Page
-index_icon: 🌺
-
-index_banner_text: Welcome to Minidyne
-
-menu:
-  Home: /
-  Archives: /archives
-  About: /about
-  Project: /project
+index_icon: 🦄
 
 # defaul icon for a post
 default_post_icon: 🥑
-
-# Archive Date Format
-archive_date_format: MMM YYYY
 
 twitter_handle: '@johndoe'
 
@@ -21,14 +10,18 @@ twitter_handle: '@johndoe'
 social_platforms:
   - url: https://stackoverflow.com/users/12345/johndoe
     icon: stackoverflow
+    name: StackOverflow
   - url: https://github.com/johndoe/
     icon: github
     type: github
+    name: GitHub
     repository: johndoe.blog
   - url: https://linkedin.com/in/johndoe
     icon: linkedin
     type: linkedin
+    name: LinkedIn
   - url: https://twitter.com/johndoe
     icon: twitter
     type: twitter
+    name: Twitter
     account: johndoe
