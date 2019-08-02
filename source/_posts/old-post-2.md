@@ -68,3 +68,36 @@ some text here
     ```
     
     install with gdebi
+
+
+> ```
+> npm install &lt;plugin name&gt; --save-dev
+> ```
+> 
+> This renders the properly formed HTML:
+> 
+> ```
+> <pre class=" language-shell">
+>   <code class="language-shell">
+>     npm install &lt;plugin name&gt; --save-dev
+>   </code>
+> </pre>
+> ```
+
+```sh
+npm install <plugin name> --save-dev
+```
+> 
+> This renders the properly formed HTML:
+> 
+> ```
+> <pre class=" language-shell">
+>   <code class="language-shell">
+>     npm install &lt;plugin name&gt; --save-dev
+>   </code>
+> </pre>
+> ```
+
+
+
+
