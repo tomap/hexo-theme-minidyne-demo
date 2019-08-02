@@ -27,3 +27,5 @@ post.charCodeAt(428)
 // 8232
 String.fromCharCode(8232)
 // ' 
+
+Or not?
