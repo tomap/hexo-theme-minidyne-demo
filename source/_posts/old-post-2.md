@@ -19,3 +19,11 @@ First test post
 
 </beans>
 ```
+
+
+Illegal char ? 
+
+post.charCodeAt(428)
+// 8232
+String.fromCharCode(8232)
+// ' 
