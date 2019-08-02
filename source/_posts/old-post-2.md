@@ -29,3 +29,42 @@ String.fromCharCode(8232)
 // ' 
 
 Or not?
+
+
+
+other test:
+
+some text here
+
+1. step 1
+
+    ```
+    sudo dpkg -i chrome.deb
+    sudo apt-get install -f
+    ```
+
+2. step 2
+
+    ```
+    sudo apt-get install gdebi
+    ```
+    install with gdebi
+    
+Code that can not be displayed as expected
+
+some text here
+
+1. step 1
+
+    ```
+    sudo dpkg -i chrome.deb
+    sudo apt-get install -f
+    ```
+
+2. step 2
+
+    ```
+    sudo apt-get install gdebi
+    ```
+    
+    install with gdebi
