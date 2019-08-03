@@ -9,17 +9,6 @@ First test post
 
 Strange links:
 
-About:
-[about](about)
-
-About:
-[about](About)
-
-About:
-[About](about)
-
-
-
 About/:
 [/about](/about)
 
