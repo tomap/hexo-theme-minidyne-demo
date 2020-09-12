@@ -73,8 +73,6 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: minidyne
-
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type:
+theme_config:
+  # defaul icon for a post
+  default_post_icon: 🥑
