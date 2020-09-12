@@ -32,7 +32,6 @@ skip_render:
 new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
-external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
@@ -59,11 +58,6 @@ index_generator:
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 
-menu:
-  Home: /
-  About: /about
-  Project: /project
-
 # Pagination
 ## Set per_page to 0 to disable pagination
 per_page: 0
@@ -76,3 +70,7 @@ theme: minidyne
 theme_config:
   # defaul icon for a post
   default_post_icon: 🥑
+  menu:
+    Home: /
+    About: /about
+    Project: /project
