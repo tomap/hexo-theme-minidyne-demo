@@ -18,6 +18,9 @@
   "devDependencies": {
     "hexo-server": "^2.0.0"
   },
+  "engines": {
+    "node": ">= 10.18.0"
+  },
   "scripts": {
     "build": "hexo g"
   }
