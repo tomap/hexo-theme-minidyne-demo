@@ -66,7 +66,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: minidyne
+theme: landscape
 theme_config:
   # defaul icon for a post
   default_post_icon: 🥑
