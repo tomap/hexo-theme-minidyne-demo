@@ -16,7 +16,7 @@
     "hexo-theme-minidyne": "^3.2.7"
   },
   "devDependencies": {
-    "hexo-server": "^2.0.0"
+    "hexo-server": "^3.0.0"
   },
   "engines": {
     "node": ">= 12"
