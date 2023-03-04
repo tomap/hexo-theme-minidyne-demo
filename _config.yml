@@ -27,9 +27,39 @@ per_page: 0
 ## Themes: https://hexo.io/themes/
 theme: minidyne
 theme_config:
-  # defaul icon for a post
+  # default icon for a post
   default_post_icon: 🥑
   menu:
     Home: /
     About: /about
     Project: /project
+
+  social_platforms:
+    - url: https://stackoverflow.com/users/12345/johndoe
+      icon: stackoverflow
+    - url: https://github.com/johndoe/
+      icon: github
+      type: github
+      name: GitHub
+      repository: johndoe.blog
+    - url: https://linkedin.com/in/johndoe
+      icon: linkedin
+      type: linkedin
+      name: LinkedIn
+    - url: https://twitter.com/johndoe
+      icon: twitter
+      type: twitter
+      name: Twitter
+      account: johndoe
+    - url: https://www.flickr.com/photos/johndoe/
+      icon: flickr
+      type: flickr
+      name: Flickr
+    - url: https://mastodon.social/@johndoe
+      icon: mastodon
+      type: mastodon
+      name: Mastodon
+    - url: /rss2.xml
+      icon: rss
+      type: rss
+      name: Rss
