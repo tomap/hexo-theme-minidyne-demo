@@ -4,11 +4,3 @@ tags:
 ---
 
 This is a video test post.
-
-**Youtube**
-
-{% youtube TIbZDRXM-Tg %}
-
-**Vimeo**
-
-{% vimeo 82090131 %}
