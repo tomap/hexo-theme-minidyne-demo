@@ -19,3 +19,85 @@ First test post
 
 </beans>
 ```
+
+
+Illegal char ? 
+
+post.charCodeAt(428)
+// 8232
+String.fromCharCode(8232)
+// ' 
+
+Or not?
+
+
+
+other test:
+
+some text here
+
+1. step 1
+
+    ```
+    sudo dpkg -i chrome.deb
+    sudo apt-get install -f
+    ```
+
+2. step 2
+
+    ```
+    sudo apt-get install gdebi
+    ```
+    install with gdebi
+    
+Code that can not be displayed as expected
+
+some text here
+
+1. step 1
+
+    ```
+    sudo dpkg -i chrome.deb
+    sudo apt-get install -f
+    ```
+
+2. step 2
+
+    ```
+    sudo apt-get install gdebi
+    ```
+    
+    install with gdebi
+
+
+> ```
+> npm install &lt;plugin name&gt; --save-dev
+> ```
+> 
+> This renders the properly formed HTML:
+> 
+> ```
+> <pre class=" language-shell">
+>   <code class="language-shell">
+>     npm install &lt;plugin name&gt; --save-dev
+>   </code>
+> </pre>
+> ```
+
+```sh
+npm install <plugin name> --save-dev
+```
+> 
+> This renders the properly formed HTML:
+> 
+> ```
+> <pre class=" language-shell">
+>   <code class="language-shell">
+>     npm install &lt;plugin name&gt; --save-dev
+>   </code>
+> </pre>
+> ```
+
+
+
+
